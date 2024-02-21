@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Gracia Betty</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+    <string name="Hobbies">Hobbies</string>
+    <string name="Contact">Contact</string>
+    <string name="Previous">Previous</string>
+    <string  name ="contact_button">Going to contact...</string>
+
+    <string name="bio">
+        Hi, I am Gracia Betty Jebaraj Daniel.
+        I am a Graduate Student studying MS in Computer Science at Pace University.
+        I did my bachelors degree in Computer Science Engineering from KCG College of Technology in India.
+        I was born and brought up in Chennai, India. I completed my bachelors in June 2023 and I started my masters immediately.
+        During my bachelors I did an internship with IBM where I developed an Inventory Management App and hosted it on IBM cloud.
+        I am passionate about Web and App development and I look forward to gain my maximum through this class.
+    </string>
+
+    <string name="sectext">
+         I am passionate about music, singing and song writing.
+         Fun Fact: I have a YouTube channel with over 100k subscribers where my albums are released.
+         I also love to design websites.
+    </string>
+
+    <string name="thrtext">
+         My official email: gj87413n@pace.edu
+         My personal email: graciadanielj@gmail.com
+    </string>
+
+    <string name="about">About</string>
+
+</resources>
