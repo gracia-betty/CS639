@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlinlesson4 Birthday Card App</string>
+    <string name="happy_birthday_text">Happy Birthday Ezra Abigail!</string>
+    <string name="signature_text">From Gracia Betty</string>
+</resources>
